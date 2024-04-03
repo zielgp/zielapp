@@ -1,0 +1,8 @@
+#! /bin/bash
+
+javac odd.java
+java ood.java
+
+
+cp index.html /var/www/index.html
+
